@@ -7,5 +7,8 @@ public class fdfdf {
 			int a;
 			int mm;
 		
+			
+			
+			System.out.println("gjgjgj");
 	}
 }
