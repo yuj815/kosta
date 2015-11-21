@@ -6,6 +6,6 @@ public class fdfdf {
 		System.out.println("syso 예이!");
 			int a;
 			int mm;
-		System.out.println("어서 바뀌라능!");
+		System.out.println("인영오빠 왔냐능?");
 	}
 }
